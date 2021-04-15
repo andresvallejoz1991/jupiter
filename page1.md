@@ -1,4 +1,4 @@
-Materias por Aprobadas
+Materias por por Aprobar
 =======================
 
 A continuacion un registro con las materias por Aprobar hasta ahora.

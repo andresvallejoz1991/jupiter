@@ -5,4 +5,4 @@
 - file: content
   sections:
     - file: markdown
-    - file: page1
+    - file: notebooks
