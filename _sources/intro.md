@@ -1,7 +1,6 @@
-Welcome to your Jupyter Book
+Bienvenidos a Jupyter Books
 ============================
 
-This is a small sample book to give you a feel for how book content is
-structured.
+Esta es un pequeña muestra de como se estrucura un libro en Jupyter.
 
-**Demo**
+**@andresvallejoz1991**
