@@ -4,5 +4,5 @@
 - file: intro
 - file: content
   sections:
-    - file: markdown
-    - file: notebooks
+    - file: page2
+    - file: page1
